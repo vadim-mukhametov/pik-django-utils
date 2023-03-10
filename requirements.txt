@@ -5,7 +5,7 @@ djangorestframework
 # TODO: unfreeze.
 django-restql==0.14.0  # For avoid backward incompatibility after upgrade.
 django-filter
-djangorestframework-filters==1.0.0.dev0  # TODO: move to 1.0.0.dev2
+djangorestframework-filters
 django-model-utils
 django-private-storage
 django-documents-tools
